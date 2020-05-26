@@ -8,9 +8,9 @@
   <name>SampleProject</name>
   <url>http://maven.apache.org</url>
   <properties>
-  <sonar.projectKey>michelMbuila_jenkins-sample</sonar.projectKey>
-  <sonar.organization>michelmbuila</sonar.organization>
-</properties>
+    <sonar.projectKey>michelMbuila_jenkins-sample</sonar.projectKey>
+    <sonar.organization>michelmbuila</sonar.organization>
+  </properties>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
